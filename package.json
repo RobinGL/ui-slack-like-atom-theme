@@ -1,7 +1,7 @@
 {
   "name": "slack-like-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Slack like ui theme for Atom",
   "keywords": [
     "ui",
