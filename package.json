@@ -1,0 +1,18 @@
+{
+  "name": "slack-like-ui",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "A Slack like ui theme for Atom",
+  "keywords": [
+    "ui",
+    "theme",
+    "slacklike",
+    "slack",
+    "atom"
+  ],
+  "repository": "https://github.com/RobinGL/ui-slack-like-atom-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
