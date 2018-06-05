@@ -10,7 +10,7 @@ If you found a bug, feel free to create an [issue](https://github.com/RobinGL/ui
 
 Open up a console windows and type:
 
-`$ apm install facebook-ui`
+`$ apm install slack-like-ui`
 
 OR
 
